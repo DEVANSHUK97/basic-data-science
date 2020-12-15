@@ -1,5 +1,5 @@
 # data-cleaning-playbook
-Go to methods to deal with messy data and pre-processing
+My go-to methods to deal with messy data and pre-processing
 
 -Missing values
 -Outliers (TODO)
